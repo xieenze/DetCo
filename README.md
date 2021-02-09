@@ -14,7 +14,7 @@
 
 ----
 
-![Graph](imgs/other_res.png)
+![Graph](imgs/other_res2.png)
 
 -----
 
