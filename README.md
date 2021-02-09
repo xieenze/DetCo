@@ -16,6 +16,16 @@
 
 ![Graph](imgs/other_res.png)
 
+-----
+
+![Graph](imgs/vis.png)
+
+-----
+
+![Graph](imgs/vis2.png)
+
+
+
 ## Codes
 Coming Soon
 
