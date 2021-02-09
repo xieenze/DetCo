@@ -41,7 +41,7 @@ Coming Soon
 
 
 ## Acknowledges
-We thank Huawei AI Theory Group to support 200+ GPUs for this research project without which this work would not be possible.
+We thank Huawei AI Theory Group to support 200+ V100 GPUs for this research project without which this work would not be possible.
 
 ## License
 
