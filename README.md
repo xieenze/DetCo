@@ -40,6 +40,9 @@ Coming Soon
 ```
 
 
+## Acknowledges
+We thank Huawei AI Theory Group to support 200+ GPUs for this research project without which this work would not be possible.
+
 ## License
 
 For academic use, this project is licensed under the 2-clause BSD License - see the LICENSE file for details. For commercial use, please contact the authors. 
