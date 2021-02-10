@@ -1,7 +1,7 @@
 # DetCo: Unsupervised Contrastive Learning for Object Detection
 [arxiv link](https://arxiv.org/abs/2102.04803)
 
-## Highlight
+## Highlights
 
 - State-of-the-art transfer performance on dense prediction tasks.
 - Improving  1.6/1.2/1.0 AP than supervised ImageNet pretrain on Mask RCNN-C4/FPN/RetinaNet with COCO 1x schedule.
@@ -51,7 +51,9 @@ Please consider citing our paper in your publications if the project helps your 
       eprint={2102.04803},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
-}```
+}
+```
+
 
 
 ## Acknowledges
