@@ -1,5 +1,10 @@
 # DetCo: Unsupervised Contrastive Learning for Object Detection
+[arxiv link](https://arxiv.org/abs/2102.04803)
 
+## Highlight
+
+- Improving1.6/1.2/1.0 AP on Mask RCNN-C4/FPN/RetinaNet with COCO 1x schedule.
+- Comprehensively improving most instance-level detection and semantic segmentation tasks.
 
 ## Pipeline
 ![image-20190807160835333](imgs/pipeline.png)
@@ -36,8 +41,14 @@ Coming Soon
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows.
 
 ```
-Coming Soon
-```
+@misc{xie2021detco,
+      title={DetCo: Unsupervised Contrastive Learning for Object Detection}, 
+      author={Enze Xie and Jian Ding and Wenhai Wang and Xiaohang Zhan and Hang Xu and Zhenguo Li and Ping Luo},
+      year={2021},
+      eprint={2102.04803},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}```
 
 
 ## Acknowledges
