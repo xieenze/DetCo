@@ -3,7 +3,7 @@
 
 ## Highlight
 
-- Improving1.6/1.2/1.0 AP on Mask RCNN-C4/FPN/RetinaNet with COCO 1x schedule.
+- Improving  1.6/1.2/1.0 AP on Mask RCNN-C4/FPN/RetinaNet with COCO 1x schedule.
 - Comprehensively improving most instance-level detection and semantic segmentation tasks.
 
 ## Pipeline
