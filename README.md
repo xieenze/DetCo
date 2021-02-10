@@ -36,6 +36,8 @@
 Coming Soon
 
 ## Download Models
+[DetCO-200ep]  [DetCO-200ep-AA]
+
 Coming Soon
 
 ## Citations
