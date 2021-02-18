@@ -1,0 +1,4 @@
+_BASE_: "coco_retinanet_R_50_FPN_1x.yaml"
+SOLVER:
+  STEPS: (9000, 11000)
+  MAX_ITER: 12000
