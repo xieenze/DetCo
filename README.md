@@ -64,9 +64,9 @@ sh tools_local/dist_test_coco.sh benchmarks/detection/pths/detco_200ep_AA.pkl be
 ```
 
 ## Download Models
-DetCO-200ep: [Google Drive](https://drive.google.com/file/d/1w8cO8VyTUhyOY55nd-YbPxBXyJnhnDXR/view?usp=sharing), [[Baidu Drive]](https://pan.baidu.com/s/1ZMRCvi_RyI-X-gb9lukK7g) Fetch Code: okfp 
+DetCo-200ep: [Google Drive](https://drive.google.com/file/d/1w8cO8VyTUhyOY55nd-YbPxBXyJnhnDXR/view?usp=sharing), [[Baidu Drive]](https://pan.baidu.com/s/1ZMRCvi_RyI-X-gb9lukK7g) Fetch Code: okfp 
  
-DetCO-200ep-AA: [Google Drive](https://drive.google.com/file/d/1CF8_G99uVNMsu28HDi04psBO2zzz3tXc/view?usp=sharing), [[Baidu Drive]](https://pan.baidu.com/s/18ilDo6crkgPDK-77LmKCGQ) Fetch Code: fg7h
+DetCo-200ep-AA: [Google Drive](https://drive.google.com/file/d/1CF8_G99uVNMsu28HDi04psBO2zzz3tXc/view?usp=sharing), [[Baidu Drive]](https://pan.baidu.com/s/18ilDo6crkgPDK-77LmKCGQ) Fetch Code: fg7h
 
 Coming Soon
 
