@@ -36,8 +36,20 @@
 
 ### Pretext Task Pretrain
 
-### Transfer to COCO
-Coming Soon
+### Transfer to Downstream tasks
+
+We provide training scripts on COCO, because the performacen of COCO is more stable than VOC and Cityscapes.
+
+We provide Mask RCNN-C4, Mask RCNN-FPN and RetinaNet with 12k, 90k and 180k iterations.
+
+```
+sh tools_local/dist_test_coco.sh $PTH $WORK_DIR
+```
+
+For example:
+```
+sh tools_local/dist_test_coco.sh benchmarks/detection/pths/detco_200ep_AA.pkl benchmarks/detection/work_dirs/detco_AA
+```
 
 ## Download Models
 [DetCO-200ep]  [DetCO-200ep-AA]
