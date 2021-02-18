@@ -45,6 +45,9 @@ See results in Table 3-5 and Table 13.
 
 We provide Mask RCNN-C4, Mask RCNN-FPN and RetinaNet with 12k, 90k and 180k iterations.
 
+First, you need to convert pretrain model to detectron2_version. See [this script](benchmarks/detection/convert-pretrain-to-detectron2.py).
+
+Second, start training and testing.
 ```
 sh tools_local/dist_test_coco.sh $PTH $WORK_DIR
 ```
