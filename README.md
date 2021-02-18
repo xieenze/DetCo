@@ -68,8 +68,6 @@ DetCo-200ep: [Google Drive](https://drive.google.com/file/d/1w8cO8VyTUhyOY55nd-Y
  
 DetCo-200ep-AA: [Google Drive](https://drive.google.com/file/d/1CF8_G99uVNMsu28HDi04psBO2zzz3tXc/view?usp=sharing), [[Baidu Drive]](https://pan.baidu.com/s/18ilDo6crkgPDK-77LmKCGQ) Fetch Code: fg7h
 
-Coming Soon
-
 ## Citations
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows.
 

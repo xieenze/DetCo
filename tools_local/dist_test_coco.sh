@@ -24,20 +24,20 @@ echo 'coco_R_50_C4_12k finish!!!'
 # COCO R50-FPN 1x
 bash run.sh configs/coco_R_50_FPN_1x_moco.yaml ../../$PTH ../../$WORK_DIR/coco_R_50_FPN_1x
 echo 'coco_R_50_FPN_1x finish!!!'
-## COCO RetinaNet 1x
+# COCO RetinaNet 1x
 bash run.sh configs/coco_R_50_RetinaNet_1x_moco.yaml ../../$PTH ../../$WORK_DIR/coco_R_50_RetinaNet_1x
 echo 'coco_retinanet_R_50_FPN_1x finish!!!'
-## COCO R50-C4 1x
+# COCO R50-C4 1x
 bash run.sh configs/coco_R_50_C4_1x_moco.yaml ../../$PTH ../../$WORK_DIR/coco_R_50_C4_1x
 echo 'coco_R_50_C4_1x finish!!!'
 
-## COCO R50-FPN 2x
+# COCO R50-FPN 2x
 bash run.sh configs/coco_R_50_FPN_2x_moco.yaml ../../$PTH ../../$WORK_DIR/coco_R_50_FPN_2x
 echo 'coco_R_50_FPN_2x finish!!!'
-## COCO RetinaNet 2x
+# COCO RetinaNet 2x
 bash run.sh configs/coco_R_50_RetinaNet_2x_moco.yaml ../../$PTH ../../$WORK_DIR/coco_R_50_RetinaNet_2x
 echo 'coco_retinanet_R_50_FPN_2x finish!!!'
-## COCO R50-C4 2x
+# COCO R50-C4 2x
 bash run.sh configs/coco_R_50_C4_2x_moco.yaml ../../$PTH ../../$WORK_DIR/coco_R_50_C4_2x
 echo 'coco_R_50_C4_2x finish!!!'
 
