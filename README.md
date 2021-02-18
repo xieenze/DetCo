@@ -36,9 +36,12 @@
 
 ### Pretext Task Pretrain
 
+Coming Soon.
+
 ### Transfer to Downstream tasks
 
-We provide training scripts on COCO, because the performacen of COCO is more stable than VOC and Cityscapes.
+We provide training scripts on COCO, because the performance of COCO is more stable than VOC and Cityscapes.
+See results in Table 3-5 and Table 13.
 
 We provide Mask RCNN-C4, Mask RCNN-FPN and RetinaNet with 12k, 90k and 180k iterations.
 
@@ -52,7 +55,9 @@ sh tools_local/dist_test_coco.sh benchmarks/detection/pths/detco_200ep_AA.pkl be
 ```
 
 ## Download Models
-[DetCO-200ep]  [DetCO-200ep-AA]
+DetCO-200ep: [Google Drive](), [[Baidu Drive]](https://pan.baidu.com/s/1ZMRCvi_RyI-X-gb9lukK7g) Fetch Code: okfp 
+ 
+ DetCO-200ep-AA: [Google Drive](), [[Baidu Drive]](https://pan.baidu.com/s/18ilDo6crkgPDK-77LmKCGQ) Fetch Code: fg7h
 
 Coming Soon
 
