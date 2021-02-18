@@ -1,6 +1,10 @@
 # DetCo: Unsupervised Contrastive Learning for Object Detection
 [arxiv link](https://arxiv.org/abs/2102.04803)
 
+## News
+- Pretrained weights has been released. 
+
+
 ## Highlights
 
 - State-of-the-art transfer performance on dense prediction tasks.
