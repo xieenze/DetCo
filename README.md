@@ -31,6 +31,8 @@
 ![Graph](imgs/vis2.png)
 
 
+## Install
+Same as [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
 
 ## Codes
 
