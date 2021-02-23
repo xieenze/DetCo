@@ -2,7 +2,7 @@
 [arxiv link](https://arxiv.org/abs/2102.04803)
 
 ## News
-- Sparse RCNN+DetCo improves from 45.0 AP to 46.4 AP(+1.4) with 3x+ms train. See details in [SparseRCNN](https://github.com/PeizeSun/SparseR-CNN).
+- Sparse RCNN+DetCo improves from 45.0 AP to 46.5 AP(+1.5) with 3x+ms train. See details in [SparseRCNN](https://github.com/PeizeSun/SparseR-CNN).
 - Pretrained weights has been released. 
 
 
